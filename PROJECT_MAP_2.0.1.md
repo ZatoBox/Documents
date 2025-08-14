@@ -645,59 +645,14 @@ def process_invoice():
         return jsonify({'error': f'Processing failed: {str(e)}'}), 500
 ```
 
----
-
-## 🔮 Roadmap y Futuras Funcionalidades
-
-### **1. Funcionalidades Planificadas**
-- [ ] Sistema de notificaciones en tiempo real
-- [ ] Integración con sistemas POS externos
-- [ ] Análisis predictivo de inventario
-- [ ] Sistema de plugins modular
-- [ ] API GraphQL para consultas complejas
-- [ ] Sistema de backup automático
-- [ ] Dashboard móvil nativo
-
-### **2. Mejoras de Performance**
-- [ ] Cache Redis para consultas frecuentes
-- [ ] Compresión de imágenes automática
-- [ ] Lazy loading de componentes
-- [ ] Optimización de consultas de BD
-- [ ] CDN para archivos estáticos
-
-### **3. Escalabilidad**
-- [ ] Microservicios independientes
-- [ ] Load balancing
-- [ ] Base de datos distribuida
-- [ ] Containerización con Docker
-- [ ] Orquestación con Kubernetes
-
----
-
-## 📚 Recursos Adicionales
-
-### **1. Documentación**
-- [README Principal](./README.md)
-- [API Documentation](http://localhost:4444/docs)
-- [Frontend Guide](./frontend/README.md)
-- [Backend Guide](./backend/zato-csm-backend/README.md)
-- [OCR Guide](./OCR/README.md)
-
-### **2. Comunidad y Soporte**
-- **Email**: soporte@zatobox.com
-- **GitHub Issues**: [Reportar Bugs](https://github.com/tu-usuario/zatobox/issues)
-- **Discord**: [ZatoBox Community](https://discord.gg/zatobox)
-- **Telegram**: [@ZatoBoxSupport](https://t.me/ZatoBoxSupport)
-
----
-
 <div align="center">
 
-**🗺️ Mapeo Completo del Proyecto ZatoBox v2.0**
+**🗺️ Mapeo Completo del Proyecto ZatoBox v2.0.1**
 
 *Este documento proporciona una visión completa de la arquitectura, conexiones y flujos del sistema*
 
-**Última actualización**: Enero 2025  
-**Versión del documento**: 1.0
+**Última actualización**: 14 Agosto 2025  
+**Versión del documento**: 2.0.1
 
 </div>
+
